@@ -178,7 +178,7 @@ results/
 predictions/
 
 # Video files (uncomment if videos are large)
-*.mp4
-*.avi
-*.mov
-*.mkv
+# *.mp4
+# *.avi
+# *.mov
+# *.mkv
