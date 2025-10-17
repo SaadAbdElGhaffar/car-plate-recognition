@@ -163,4 +163,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Ultralytics](https://github.com/ultralytics/ultralytics) - YOLOv11
 - [PaddlePaddle](https://github.com/PaddlePaddle/PaddleOCR) - OCR
 - [Flask](https://flask.palletsprojects.com/) - Web framework
+  
+## 📬 Contact
+- **GitHub:** [SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar)  
+- **LinkedIn:** [Saad Abd El-Ghaffar](https://www.linkedin.com/in/saadabdelghaffar/)  
+- **Email:** [saad.abdelghaffar.ai@gmail.com](mailto:saad.abdelghaffar.ai@gmail.com)  
+- **Kaggle:** [@abdocan](https://www.kaggle.com/abdocan)
+
 
